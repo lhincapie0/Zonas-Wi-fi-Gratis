@@ -1,13 +1,13 @@
 ﻿namespace Zonas_Wifi
 {
-    partial class Form1
+    partial class Fondo
     {
-        /// <summary>
+        /// <summary> 
         /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
-        /// <summary>
+        /// <summary> 
         /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
@@ -20,10 +20,10 @@
             base.Dispose(disposing);
         }
 
-        #region Windows Form Designer generated code
+        #region Component Designer generated code
 
-        /// <summary>
-        /// Required method for Designer support - do not modify
+        /// <summary> 
+        /// Required method for Designer support - do not modify 
         /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
@@ -34,22 +34,22 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(186, 113);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 28.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label1.Location = new System.Drawing.Point(215, 113);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(255, 17);
+            this.label1.Size = new System.Drawing.Size(943, 55);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Maldita sea esto me sabe a cacho";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
+            this.label1.Text = "COMO CONECTARSE A LA ZONA WI-FI";
             // 
-            // Form1
+            // Fondo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1454, 642);
+            this.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.Controls.Add(this.label1);
-            this.Name = "Form1";
-            this.Text = "Form1";
+            this.Name = "Fondo";
+            this.Size = new System.Drawing.Size(1425, 204);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -60,4 +60,3 @@
         private System.Windows.Forms.Label label1;
     }
 }
-

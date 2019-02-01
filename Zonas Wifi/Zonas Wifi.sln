@@ -5,6 +5,16 @@ VisualStudioVersion = 15.0.28307.271
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zonas Wifi", "Zonas Wifi\Zonas Wifi.csproj", "{C7227639-9C14-486E-920D-B67814A8B669}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Files", "Files", "{60ACEADE-0B83-4252-9E4C-992316D56961}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\OneDrive\Imágenes\01.png = ..\..\..\..\..\OneDrive\Imágenes\01.png
+		..\..\..\..\..\OneDrive\Imágenes\02.png = ..\..\..\..\..\OneDrive\Imágenes\02.png
+		..\..\..\..\..\OneDrive\Imágenes\03.png = ..\..\..\..\..\OneDrive\Imágenes\03.png
+		..\..\..\..\..\OneDrive\Imágenes\activa.png = ..\..\..\..\..\OneDrive\Imágenes\activa.png
+		..\..\..\..\..\OneDrive\Imágenes\answer.png = ..\..\..\..\..\OneDrive\Imágenes\answer.png
+		..\..\..\..\..\OneDrive\Imágenes\complete.png = ..\..\..\..\..\OneDrive\Imágenes\complete.png
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
