@@ -1,0 +1,112 @@
+﻿Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Av. 39;1100107001;Av. 39;-74.65445;4.646983
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 19;1100107003;Calle 19;-74.75494;4.611518
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 22;1100107004;Calle 22;-74.71686;4.617832
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 26;1100107005;Calle 26;-74.71686;4.617835
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 45;1100107006;Calle 45;-74.69484;4.627443
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 57;1100107007;Calle 57;-74.66291;4.644569
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 63;1100107008;Calle 63;-74.64725;4.649245
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 72;1100107009;Calle 72;-74.6218;4.657397
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 76;1100107010;Calle 76;-74.61092;4.663867
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Flores;1100107011;Flores;-74.62823;4.655366
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Marly;1100107012;Marly;-74.67001;4.63848
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Profamilia;1100107013;Profamilia;-74.65445;4.646983
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Tercer Milenio;1100107014;Tercer Milenio;-74.84392;4.597473
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Alcala;1100107015;Alcala;-74.5168;4.720107
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 100;1100107016;Calle 100;-74.57221;4.684884
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 106;1100107017;Calle 106;-74.55972;4.693194
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 127;1100107018;Calle 127;-74.541499;4.70515
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 85;1100107022;Calle 85;-74.59723;4.671844
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Cardioinfantil;1100107023;Cardioinfantil;-74.50759;4.726804
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Mazuren;1100107025;Mazuren;-74.50214;4.733242
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Pepe Sierra;1100107026;Pepe Sierra;-74.54687;4.69842
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Portal Norte;1100107027;Portal Norte;-74.46086;4.754511
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Toberin;1100107030;Toberin;-74.47087;4.746386
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Virrey;1100107031;Virrey;-74.58382;4.67708
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);21 Ángeles;1100107032;21 Ángeles;-74.80828;4.735343
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Gratamira;1100107033;Gratamira;-74.73155;4.727953
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Humedal Córdoba;1100107034;Humedal Córdoba;-74.72788;4.714522
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);La Campiña;1100107035;La Campiña;-74.90793;4.742272
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Portal Suba;1100107037;Portal Suba;-74.9488;4.746301
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Puentelargo;1100107038;Puentelargo;-74.72788;4.714523
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Rionegro;1100107039;Rionegro;-74.64511;4.680825
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);San Martín;1100107040;San Martín;-74.66904;4.676917
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Shaio;1100107041;Shaio;-74.70065;4.699542
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Suba - TV. 91;1100107042;Suba - TV. 91;-74.89675;4.739893
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Suba AV. Boyacá;1100107043;Suba AV. Boyacá;-74.74855;4.722172
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Suba CL. 100;1100107044;Suba CL. 100;-74.72788;4.714523
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Suba CL. 95;1100107045;Suba CL. 95;-74.63253;4.684218
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Boyaca;1100107048;Boyaca;-74.87276;4.694174
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Carrera 47;1100107049;Carrera 47;-74.73874;4.678123
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Carrera 53;1100107050;Carrera 53;-74.77413;4.681986
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Carrera 90;1100107051;Carrera 90;-74.104452;4.704643
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Escuela Militar;1100107052;Escuela Militar;-74.69312;4.675245
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Ferias;1100107053;Ferias;-74.84287;4.690709
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Polo;1100107056;Polo;-74.64654;4.670514
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Portal 80;1100107057;Portal 80;-74.111348;4.70994
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Quirigua;1100107058;Quirigua;-74.108629;4.70667
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);AV. El Dorado;1100107060;AV. El Dorado;-74.79896;4.630774
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);CAD;1100107061;CAD;-74.81829;4.6242
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Campín - U. Antonio Nariño;1100107062;Campín - U. Antonio Nariño;-74.79029;4.643556
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Coliseo;1100107063;Coliseo;-74.78301;4.650538
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Guatoque Veraguas;1100107064;Guatoque Veraguas;-74.9526;4.604434
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);NQS - Calle 75;1100107066;NQS - Calle 75;-74.70765;4.670886
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Paloquemao;1100107067;Paloquemao;-74.89675;4.615754
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Simón Bolívar;1100107069;Simón Bolívar;-74.77572;4.657827
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Tygua San Jose;1100107070;Tygua San Jose;-74.89168;4.600074
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);U. Nacional;1100107071;U. Nacional;-74.79409;4.637145
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Carrera 43;1100107075;Carrera 43;-74.99954;4.621286
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);CDS - Carrera 32;1100107076;CDS - Carrera 32;-74.9408;4.616478
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);De la Sabana;1100107077;De la Sabana;-74.8226;4.605742
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Mandalay;1100107078;Mandalay;-74.152427;4.634788
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Portal Americas;1100107082;Portal Americas;-74.17272;4.628772
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);San Facon - KR. 22;1100107085;San Facon - KR. 22;-74.827;4.60625
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Zona Industrial;1100107087;Zona Industrial;-74.94277;4.616533
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Alqueria;1100107088;Alqueria;-74.135557;4.594994
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Comuneros;1100107090;Comuneros;-74.9922;4.605069
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);General Santander;1100107091;General Santander;-74.135557;4.594994
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);La Despensa;1100107092;La Despensa;-74.188077;4.59461
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);León XIII;1100107093;León XIII;-74.1895;4.594035
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Madelena;1100107094;Madelena;-74.166016;4.596308
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);NQS - Calle 38A Sur;1100107095;NQS - Calle 38A Sur;-74.135557;4.594994
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Perdomo;1100107097;Perdomo;-74.166016;4.596308
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Portal del Sur;1100107098;Portal del Sur;-74.170053;4.596088
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);San Mateo;1100107099;San Mateo;-74.204542;4.589079
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Santa Isabel;1100107100;Santa Isabel;-74.102523;4.601095
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Sena;1100107101;Sena;-74.104359;4.598334
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Sevillana;1100107102;Sevillana;-74.147532;4.595162
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Terreros;1100107103;Terreros;-74.201607;4.589012
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Venecia;1100107104;Venecia;-74.142302;4.59558
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Calle 40 Sur;1100107106;Calle 40 Sur;-74.119408;4.575943
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Consuelo;1100107107;Consuelo;-74.123977;4.560495
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Fucha;1100107108;Fucha;-74.99315;4.583165
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Hortua;1100107109;Hortua;-74.89913;4.591115
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Hospital;1100107110;Hospital;-74.8626;4.59521
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Molinos;1100107111;Molinos;-74.12181;4.55697
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Nariño;1100107112;Nariño;-74.108396;4.582544
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Olaya;1100107113;Olaya;-74.112434;4.57454
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Parque;1100107114;Parque;-74.135057;4.56839
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Portal Tunal;1100107115;Portal Tunal;-74.139227;4.575769
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Portal Usme;1100107116;Portal Usme;-74.119148;4.53161
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Quiroga;1100107117;Quiroga;-74.110232;4.580095
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Restrepo;1100107118;Restrepo;-74.112434;4.57454
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Santa Lucia;1100107119;Santa Lucia;-74.124517;4.571572
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Socorro;1100107120;Socorro;-74.124546;4.563607
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Las Aguas;1100107121;Las Aguas;-74.8527;4.590426
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Ciudad Universitaria;1100107126;Ciudad Universitaria;-74.83889;4.631822
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Corferias;1100107127;Corferias;-74.89829;4.634358
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);El Tiempo;1100107128;El Tiempo;-74.105795;4.65653
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Portal Eldorado;1100107133;Portal Eldorado;-74.120876;4.680957
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Salitre El Greco;1100107135;Salitre El Greco;-74.101378;4.650392
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Bicentenario;1100107138;Bicentenario;-74.81175;4.594933
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Ciudad Jardin  ;1100107139;Ciudad Jardin  ;-74.93713;4.579097
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Country Sur;1100107140;Country Sur;-74.98543;4.571767
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Hospitales;1100107141;Hospitales;-74.72092;4.710989
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Las Nieves;1100107142;Las Nieves;-74.74624;4.606066
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);Portal 20 de de Julio;1100107144;Portal 20 de de Julio;-74.95916;4.5751
+Bogotá D.C.;Bogotá D.C. (Anexo Transmilenio);San Diego;1100107145;San Diego;-74.72093;4.609865
+Bogotá D.C.;Bogotá D.C.;Parque Zonal Moralva (Localidad de San Cristobal);1100109001;Calle 42CSur#16A-Este;-74.081006;4.543928
+Bogotá D.C.;Bogotá D.C.;Parque Francisco José de Caldas;1100109002;Calle 42F Sur # 79C-39 Barrio Nuevo Kennedy;-74.165354;4.620699
+Bogotá D.C.;Bogotá D.C.;Parque La Semilla (sector San Luis);1100109003;Chapinero. Transversal 8-25 Este con Calle 97. Cubrimiento al Parque y al Salón Comunal (Calle 97 # 8-25);-74.020867;4.668237
+Bogotá D.C.;Bogotá D.C.;PARQUE EL RINCÓN;1100109004;Carrera 92 # 128 B - 41;-74.091839;4.721283
+Bogotá D.C.;Bogotá D.C.;Parque del barrio Gaitán;1100109005;Barrios Unidos. Calle 78A con Carrera 55Bis;-74.072767;4.675014
+Bogotá D.C.;Bogotá D.C.; Museo Nacional;1100109006; Cra 7 Calle 29;-74.068055;4.6152778

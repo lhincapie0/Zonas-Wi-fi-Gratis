@@ -1,0 +1,130 @@
+﻿Valle del Cauca;Bolívar;PARQUE PRINCIPAL;7610005001;PARQUE PRINCIPAL RICAUTE;-76.207756;4.308258
+Valle del Cauca;Buenaventura;POLIDEPORTIVO LA INDEPENDENCIA;7610901000;KR 62 CON DIAGONAL 9A;-76.999961;3.878148
+Valle del Cauca;Buenaventura;PARQUE LLERAS;7610905001;CALLE 2 CON CRA 18;-77.062818;3.877836
+Valle del Cauca;Buenaventura;PARQUE MONTECHINO;7610905002;CARRERA 17 CON CALLE 4;-77.065409;3.880656
+Valle del Cauca;Buenaventura;BOULEVARD CENTRO;7610905003;CALLE 3 CON CRA 2;-77.078846;3.890545
+Valle del Cauca;Cali;CANCHA LA ESTACIÓN;7600101000;CANCHA LA ESTACIÓN KR 3AN CON CALLE 72F A 72J;-76.493165;3.493986
+Valle del Cauca;Cali;UNIDAD DEPORTIVA LAUREANO;7600105001;CALLE 49 Y 50 ALREDEDOR DEL NUEVO CENTRO DE DESARROLLO EMPRESARIAL DE LA SECRETARIA DE DESARROLLO ECONÓMICO;-76.495139;3.413861
+Valle del Cauca;Cali;POLIDEPORTIVO EL DIAMANTE;7600105002;POLIDEPORTIVO EL DIAMANTE;-76.502107;3.420221
+Valle del Cauca;Cali;ZONA DEPORTIVA PRINCIPAL BARRIO PETECUY II ETAPA;7600105003;BARRIO PETECUY II;-76.482694;3.479175
+Valle del Cauca;Candelaria;PARQUE ZORAIDA ZAMORANO;7613005001;CL. 13 #15A22;-76.385106;3.396207
+Valle del Cauca;Candelaria;PARQUE PRINCIPAL EL TIPLE;7613005002;PARQUE EL TRIPLE;-76.425919;3.350509
+Valle del Cauca;Cartago;PARQUE LA ISLETA;7614705001;PARQUE LA ISLETA;-75.91013;4.75175
+Valle del Cauca;Cartago;PARQUE PRINCIPAL;7614705002;PARQUE EL LINEAL CRA 2;-75.920965;4.751891
+Valle del Cauca;Dagua;CENTRO RECREACIONAL;7623305001;CENTRO RECREACIONAL;-76.693448;3.656905
+Valle del Cauca;El Águila;POLIDEPORTIVO PUNTA BRAVA;7624305001;POLIDEPORTIVO PUNTA BRAVA;-76.041852;4.908653
+Valle del Cauca;El Cerrito;CORREGIMIENTO SANTA ELENA PARQUE PRINCIPAL;7624805001;PARQUE PRINCIPAL SANTA ELENA;-76.245806;3.658917
+Valle del Cauca;El Cerrito;CORREGIMIENTO SAN ANTONIO SECTOR LA REFORMA;7624805002;REFORMA;-76.35195;3.685667
+Valle del Cauca;Florida;PARQUE SAN ANTONIO DE LOS CABALLEROS;7627505001;PARQUE SAN ANTONIO DE LOS CABALLEROS;-76.296164;3.355344
+Valle del Cauca;Florida;PLAZA DE LA PAZ - PARQUE PRINCIPAL;7627505002;CRA. 20 #919;-76.236958;3.325909
+Valle del Cauca;Ginebra;PARQUE PRINCIPAL;7630605001;VIA GINEBRA-GUACARÍ #4-1;-76.268768;3.723692
+Valle del Cauca;Guadalajara de Buga;PARQUE MARIA LUISA ESPADA;7611105001;CL. 29A #8-2;-76.291177;3.917181
+Valle del Cauca;Guadalajara de Buga;PLAZOLETA LOURDES BASILICA;7611105002;CALLE 4 ENTRE CARRERA 14 Y15;-76.302928;3.897546
+Valle del Cauca;Obando;PARQUE PRINCIPAL;7649705001;CRA. 2 #22, OBANDO;-75.97224;4.574579
+Valle del Cauca;Pradera;PARQUE PRINCIPAL SIMÓN BOLÍVAR;7656305001;CRA. 11 #547, PRADERA;-76.242379;3.419753
+Valle del Cauca;Pradera;PARQUE DEL BARRIO BERLÍN;7656305002;CRA 2 ENTRE CLL 1A Y 1B;-76.233235;3.418611
+Valle del Cauca;Restrepo;PLAZA DE MERCADO;7660605001;CLL 13 CON CRA 10;-76.522272;3.822469
+Valle del Cauca;Restrepo;PARQUE PRINCIPAL;7660605002;CARRERA 10 ENTRE 12 Y 13;-76.522361;3.821997
+Valle del Cauca;San Pedro;PLAZA PRINCIPAL, CASCO URBANO CHANCOS;7667005001;PARQUE PRINCIPAL CHANCOS;-76.212218;4.018803
+Valle del Cauca;Tuluá;PARQUE LINEAL JUAN MARIA CESPEDES. PARQUE PRINCIPAL;7683405001;CRA. 28 #26-1;-76.195581;4.0845
+Valle del Cauca;Yotoco;PARQUE PRINCIPAL MEDIA CANOA;7689005001;PARQUE PRINCIPAL MEDIA CANOA;-76.376232;3.900247
+Valle del Cauca;Yumbo;POLIDEPORTIVO PORTAL DE CONFAMDI;7689205001;CRA 9 CON CLL 14A;-76.484451;3.581561
+Valle del Cauca;El Dovio;Villa Emma ;7625009001;PARQUE de la Urbanización Villa Emma (no tiene nomenclatura);-76.238611;4.511111
+Valle del Cauca;Alcalá;Parque Ppal;7602008001;Entre Calle 6B y Kra 5C;-75.781749;4.674941
+Valle del Cauca;Alcalá;Parque la Plazuela;7602008002;Entre Calle 6 y Kra 8;-75.785237;4.673952
+Valle del Cauca;Andalucía;Parque vicente H Cruz;7603608001;Kra 4  calles 12 y13;-76.167136;4.169385
+Valle del Cauca;Andalucía;Pista Atlética Carrera entre Calle 20 y 21;7603608002;Kra 9 calles 20 y 21;-76.16458;4.176936
+Valle del Cauca;Ansermanuevo;Parque principal;7604108001;Kra 4 calle 6 y 7;-75.994167;4.795833
+Valle del Cauca;Ansermanuevo;Corregimiento gramalote;7604108002;Calle 2 # 3-03E;-75.988888;4.788333
+Valle del Cauca;Argelia;Parque principal;7605408001;Kra 6 # 2-44;-76.121506;4.727185
+Valle del Cauca;Argelia;Barrio el triangulo;7605408002;Calle 4 con carrera 4 No. 4-20;-76.120418;4.727283
+Valle del Cauca;Bolívar;Parque Principal;7610008001;carrera 4 #7-41;-76.184361;4.337245
+Valle del Cauca;Bolívar;Parque principal corregimiento de la Tulia;7610008002;3 carrera con calle 3;-76.24411;4.384099
+Valle del Cauca;Cali;Plaza de San Francisco;7600108001;Cra 6 entre calle 9 y 10;-76.53333;3.449444
+Valle del Cauca;Guadalajara de Buga;Parque Alto Bonito;7611108001;Kra 7E y 8E Calles 12A y 13;-76.286252;3.89964
+Valle del Cauca;Guadalajara de Buga;Parque Fuenmayor;7611108003;PENDIENTE CONFIRMAR DIRECCIÓN;-76.293333;3.906944
+Valle del Cauca;Buenaventura;Muelle turístico;7610908001;carrera 2 y calle 1;-77.82085;3.88877
+Valle del Cauca;Bugalagrande;Parque barrio cocicoimpa;7611308001;Calle 1 sur con Cra 7 sur;-76.160278;4.201944
+Valle del Cauca;Bugalagrande;Parque barrio San Bernabé;7611308002;Calle 6 Cra 7;-76.157222;4.213339
+Valle del Cauca;Caicedonia;Parque el Carmen;7612208001;calle 8 y 9 con carrera 15;-75.828956;4.331144
+Valle del Cauca;Caicedonia;Parque Gutierrez y Arango;7612208002;calle 12 y 13 con carrera 25;-75.828558;4.334919
+Valle del Cauca;Bugalagrande;Parque la Maria II Etapa;7611308003;Calle 9 sur Cra 7 sur;-76.161389;4.199167
+Valle del Cauca;Calima;Parque principal;7612608001;calle 10 con carrera 6 y7;-76.483888;3.931666
+Valle del Cauca;Calima;Museo Arqueológico;7612608002;Calle 10 # 12-50;-76.488568;3.933517
+Valle del Cauca;Candelaria;Parque principal casco Urbano;7613008001;Calles 9 y 10 entre Cra 7 y 8;-76.347053;3.409217
+Valle del Cauca;Candelaria;Poblado campestre;7613008002;Entre calle 20 y 20B y Carrera 39 y 39B;-76.458317;3.410798
+Valle del Cauca;Cartago;Plaza de Mercado;7614708001;Cra 6 entre calles 11 y 13;-75.915918;4.747293
+Valle del Cauca;Cartago;Parque de Guadalupe ( iglesia);7614708002;Cra 4y 5 entre calle 8 y 9;-75.908183;4.747975
+Valle del Cauca;Cartago;peatonal de la calle casa del virrey;7614708003;calle 13 entre carrera 4 y 5;-75.9149;4.74945
+Valle del Cauca;Dagua;Parque Ricaute;7623308001;calle 9 con calle 22;-76.6867;3.6561
+Valle del Cauca;Dagua;Parque El llanito;7623308002;Cra 13 entre calle 6 y 7;-76.691388;3.659444
+Valle del Cauca;El Águila;Barrio Asprodica;7624308001;Brrio Asprodica Cabece Municipal;-76.45;4.899722
+Valle del Cauca;El Cairo;Parque principal;7624608001;Cra 5 con calle 8 esquina;-76.22071;4.761762
+Valle del Cauca;El Cairo;Hostal el Cairo;7624608002;Cra 3 con calle 9 No. 9-10;-76.220209;4.761294
+Valle del Cauca;El cerrito;Brisas de la merced ( teatrino marina Arango);7624808001;Calle 1a sur  y carrera 12;-76.312816;3.681166
+Valle del Cauca;El cerrito;Parque el placer (corregimiento);7624808002;Calle 7 entre carreras 6 y 7;-76.2686;3.6025
+Valle del Cauca;El Dovio;El Ceres El Dovio;7625008001;Cra 7 No.  7-80 barrio Nicolás Borrero;-76.238988;4.510633
+Valle del Cauca;El Dovio;Parque principal barrio central;7625008002;Cra 7 y 8 calle 7 esquina;-76.23867;4.5117
+Valle del Cauca;Florida;Parque chocosito;7627508001;Cra 20 entre 9 y 10;-76.299126;3.287426
+Valle del Cauca;Florida;Parque bosque Municipal;7627508002;Calle 6 con cra 7;-72.28889;3.316667
+Valle del Cauca;Ginebra;Corregimiento de Costa Rica Parque Central;7630608001;Carrera 5 entre calles 11 y 12;-76.233502;3.752401
+Valle del Cauca;Ginebra;Parque del samán;7630608002;Cra 2N con calle 9 y 10;-72.28891;3.316667
+Valle del Cauca;Guacarí;Casa de la cultura;7631808001;Calle 4 No 7 - 46;-76.332472;3.762777
+Valle del Cauca;Guacarí;Parque principal;7631808002;calle 3 y 4 con carrera 8 y 9;-76.33425;3.763194
+Valle del Cauca;Guacarí;Plazoleta galería;7631808003;calle 6 y séptima con carrera 6;-76.33206;3.764598
+Valle del Cauca;Jamundí;Coliseo Alfaguara (imdere);7636408001; Calle 2 / carrera 15;-76.549444;3.257222
+Valle del Cauca;Jamundí;Villa paz ( parque principal);7636408002;Corregimiento Villa Paz;-76.543611;3.134444
+Valle del Cauca;Jamundí;Jamundí ( parque principal);7636408003;carrera 10 y 11;-76.540846;3.261784
+Valle del Cauca;Jamundí;Robles ( parque principal);7636408004;Corregimiento de Robles;-76.594305;3.129175
+Valle del Cauca;Jamundí;Jamundí ( parque Bello Horizontal);7636408005;Carrera 6 con Calle 16B;-76.5338;3.265
+Valle del Cauca;La cumbre;Parque Villanueva;7637708001;Cra 7y 8 entre calle 3 y 4;-76.569722;3.650277
+Valle del Cauca;La cumbre;Parque el samán;7637708002;corregimiento de pavas;-76.583888;3.676944
+Valle del Cauca;La Unión;Parque principal Argerimo escobar Cardona;7640008001;calle 15 No 16-49;-76.1027;4.532144
+Valle del Cauca;La Unión;Casa de la cultura y la Ermita;7640008002;Cra 10 entre calle 14 y 15;-76.1015;4.530778
+Valle del Cauca;La Unión;Parque San Pedro;7640008003;Calle 22 y 23;-76.10237;4.539053
+Valle del Cauca;La victoria;Parque principal los fundadores casco;7640308001;calle 8 y 9 con cra 6 y 7;-76.35861;4.523306
+Valle del Cauca;La victoria;Parque lanceros (caso urbano);7640308002;Calle 6 b con Cra 6 y 5;-76.36071;4.524105
+Valle del Cauca;Obando;ciudadela Obando;7649708001;Cra 2 con calle 9;-75.971097;4.578914
+Valle del Cauca;Obando;Villa Europa;7649708002;Calle 5 con carrera 5D;-75.975211;4.577413
+Valle del Cauca;Palmira;Parque del corregimiento de rozo;7652008001;Avenida 9 con calle 10;-76.386513;3.614866
+Valle del Cauca;Palmira;Parque santa teresita;7652008002;Transv. 39 con calle 48 esquina;-76.310556;3.543333
+Valle del Cauca;Palmira;Parque del Amor;7652008003;Calle 32 con carrera 18 esquina;-76.290277;3.528055
+Valle del Cauca;Palmira;Parque Llano grande;7652008004;Calle 31/carrera 44;-76.315556;3.5425
+Valle del Cauca;Palmira;Parque villa diana;7652008005;Calle 63/Cra 41;-76.310009;3.547581
+Valle del Cauca;Pradera;Cic  Villa marina;7656308001;calle 8 con carrera 20;-76.248611;3.425833
+Valle del Cauca;Pradera;Cachas Galería;7656308002;calle 8 con carrera 13 esq.;-76.244722;3.420277
+Valle del Cauca;Restrepo;Parque media torta;7660608001;calle 11 y 13 con carrera 14 y 16;-76.525278;3.8225
+Valle del Cauca;Restrepo;Zona Uniciencia Barrio Galán;7660608002;Cra 16B con calle 5;-76.526389;3.818333
+Valle del Cauca;Riofrío;Parque principal cabecera Municipal;7661608001;calle 4 con carrera 9;-76.288056;4.155556
+Valle del Cauca;Riofrío;Parque Temático;7661608002;Carrera 10 calle 11 y 12.;-76.287778;4.154722
+Valle del Cauca;Roldanillo;Barrio Humberto Gonzalez Narváez ( Iglesia);7662208001;Carrera 10 con carrera 11;-76.159912;4.408609
+Valle del Cauca;Roldanillo;Parque la Ermita;7662208002;calle 4 con carrera 8;-76.156798;4.412111
+Valle del Cauca;Roldanillo;Parque san Sebastián (ELIAS GUERRERO);7662208003;Carrera 7 con carrera 8;-76.154426;4.411058
+Valle del Cauca;San Pedro;Parque recreacional San Pedro;7667008001; Carrera 6 / Calle 7;-76.228889;3.998611
+Valle del Cauca;San Pedro;Plaza principal, Presidente;7667008002;corregimiento presidente;-76.229167;3.998889
+Valle del Cauca;Sevilla;Parque de la Concordia;7673608001;Calle 52 No 49-52;-75.934438;4.264504
+Valle del Cauca;Sevilla;Vereda San Antonio;7673608002;vereda San Antonio;-76.939722;4.216028
+Valle del Cauca;Sevilla;Sector rural Coloradas;7673608003;Sector rural Coloradas;-75.957222;4.205
+Valle del Cauca;Toro;Barrio El Lazano;7682308001;Calle 11  sector centro;-76.77265;4.618762
+Valle del Cauca;Toro;Barrio El Chanco;7682308002;Calle 12 No. 2 sur-290;-76.78983;4.603681
+Valle del Cauca;Trujillo;Corregimiento Andinapolis;7682808001;Corregimiento Andinanapolis Parque ppal.;-76.387022;4.167439
+Valle del Cauca;Trujillo;Corregimiento de Venecia;7682808002;Corregimiento de Venecia;-76.390833;4.193889
+Valle del Cauca;Tuluá;Coliseo de Ferias Manuel Victoria Rojas;7683408001;Calle 13 con cra 30;-76.187206;4.92983
+Valle del Cauca;Tuluá;Plaza Cívica Boyacá;7683408002;calle 25 y 26 con carrera 25 y 26;-76.1975;4.85556
+Valle del Cauca;Tuluá;Polideportivo Barrio Alameda;7683408003;Tv 12/Cra 24 con calle 25/26;-76.198611;4.100556
+Valle del Cauca;Tuluá;Lago Chilicote;7683408004;calle 34 con carrera 21;-76.202222;4.77778
+Valle del Cauca;Ulloa;Parque principal;7684508001;Cra 3 y 4 con calle 7;-75.737886;4.703527
+Valle del Cauca;Ulloa;Casa de la cultura;7684508002;calle 4 y 5 con cra. 2 y 3;-75.738156;4.703878
+Valle del Cauca;Versalles;Parque principal;7686308001;calle 9 entre carrera 6 y 7;-76.199833;4.575014
+Valle del Cauca;Versalles;Casa de la cultura;7686308002;calle 8 con carrera 2 esquina;-76.197144;4.575894
+Valle del Cauca;Vijes;Parque principal;7686908001;Cra 4 y 5 entre calle 5 y 6;-76.4425;3.700556
+Valle del Cauca;Vijes;Parque Villa Esperanza;7686908002;calle 8 con calle 7;-76.441906;3.69601
+Valle del Cauca;Yotoco;Parque Principal;7689008001;PENDIENTE CONFIRMAR DIRECCIÓN;-76.385086;3.861504
+Valle del Cauca;Yotoco;Instituto Municipal de Deportes;7689008002;Cra 7 No. 5-37;-76.3825;3.877222
+Valle del Cauca;Yumbo;Parque Barrio Guadalupe;7689208001;Calle 16 No. 16n 30;-76.4832;3.596094
+Valle del Cauca;Yumbo;IMDERTY;7689208002;Calle 16 Kra 4;-76.483611;3.58222
+Valle del Cauca;Yumbo;Polideportivo Tomás Bernardo Chávez;7689208003;Carrera 3 Norte Con Calle 16 Barrio Guacandá;-76.487778;3.578056
+Valle del Cauca;Yumbo;Parque de la Estancia;7689208004;calle 19 con carrera 20;-76.480555;3.570555
+Valle del Cauca;Zarzal;Parque Santander;7689508001;Calle 10 calle 11 con Cra 9 y 10;-76.70783;4.395167
+Valle del Cauca;Zarzal;Parque Barrio Bolívar;7689508002;Calle 14 y 15 con Cra 8 y 9;-76.68266;4.397295
+Valle del Cauca;El Águila;Parque Principal;7624309001;Carrera 3 Con Calle 7;-76.42116;4.907833
